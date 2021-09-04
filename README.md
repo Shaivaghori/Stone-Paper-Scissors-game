@@ -1,5 +1,5 @@
-# Stone-Paper-Scissors-game
-#This is my 2nd project using C graphics,I hope you will enjoy it
+// Stone-Paper-Scissors-game
+//This is my 2nd project using C graphics,I hope you will enjoy it
 
 /*this is the source code of the game stone paper scissor,try this code on your turbo c++ compiler because this compiler does not support graphics programs,this is made by Shaiv Aghori(Ravi Raj Rajput)*/
 
